@@ -1,0 +1,26 @@
+div .BoxInfo {
+  background-color: #fff;
+}
+div .ListInfo {
+  flex-direction: row;
+  background-color: #0000;
+}
+div p {
+  font-size: 20px;
+  color: #666;
+}
+.ImgUser {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+}
+button {
+  margin-top: 30px;
+  padding: 50px;
+  display: flex;
+  justify-content: space-between;
+  width: 600px;
+  box-shadow: #eee;
+  border-radius: 20px;
+  flex-direction: row;
+}
