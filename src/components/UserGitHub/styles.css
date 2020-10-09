@@ -1,5 +1,5 @@
 div .BoxInfo {
-  background-color: rgb(175, 172, 172);
+  background-color: #fff;
 }
 div .ListInfo {
   flex-direction: row;
@@ -8,7 +8,8 @@ div .ListInfo {
 div p {
   font-size: 20px;
   margin-top: 0px;
-  color: rgb(241, 234, 234);
+  color: rgb(85, 85, 85);
+  text-align: left;
 }
 .ImgUser {
   width: 200px;
@@ -16,12 +17,11 @@ div p {
   border-radius: 100px;
 }
 button {
-  margin-top: 30px;
-  padding: 50px;
+  margin-top: 20px;
+  padding: 30px;
   display: flex;
   justify-content: space-between;
-  width: 600px;
-  box-shadow: #eee;
+  width: 700px;
   border-radius: 20px;
   flex-direction: row;
 }

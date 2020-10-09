@@ -29,7 +29,7 @@ function User({ login }) {
     alert('clicou');
   }
   if (loading) return <p>Loading...</p>;
-  if (error) return <p>Insira um nome válido</p>;
+  if (error) return <p></p>;
   return (
     <button className='BoxInfo' onclick={handleClick}>
       <div className='ListInfo'>
