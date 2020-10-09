@@ -1,5 +1,5 @@
 div .BoxInfo {
-  background-color: #fff;
+  background-color: rgb(175, 172, 172);
 }
 div .ListInfo {
   flex-direction: row;
@@ -7,7 +7,8 @@ div .ListInfo {
 }
 div p {
   font-size: 20px;
-  color: #666;
+  margin-top: 0px;
+  color: rgb(241, 234, 234);
 }
 .ImgUser {
   width: 200px;
